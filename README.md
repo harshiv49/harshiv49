@@ -97,20 +97,3 @@ A full production-grade e-commerce stack:
 Responsive business challenge website built from scratch.  
 **Tech:** React, TailwindCSS.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiv49&theme=dark" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiv49&layout=compact&theme=dark" width="42%">
-</p>
-
----
-
-## 📫 Connect with Me
-
-- **LinkedIn:** https://www.linkedin.com/in/harshiv-thakkar/  
-- **Email:** harshiv49@gmail.com  
-
-Thanks for visiting! ⭐
