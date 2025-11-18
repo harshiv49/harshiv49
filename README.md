@@ -1,14 +1,16 @@
 # Hi, I'm Harshiv Thakkar 👋
 
+---
+
 ## 🚀 About Me
 
-I'm a software engineer passionate about building clean, scalable architecture and solving real-world problems.
+I'm a software engineer passionate about building and optimizing complex, real-world applications.
 
-* ☁️ **AWS Certified Cloud Practitioner** with hands-on experience in IaC (SAM/CloudFormation), serverless (Lambda), and containers (Docker/ECS).
-* 🧠 I love building **RAG pipelines** (LangChain, QDrant, LanceDB) and optimizing complex database queries.
-* 🚀 My work has focused on achieving **sub-300ms API latency** and architecting real-time monitoring backends.
-* 🏆 Solved **800+ DSA problems** on LeetCode & GeeksforGeeks.
-* 💡 Fun fact: I received an **Innovation Grant of 1 lakh Rs.** for an IoT Rover project incubated by SSIP Cell, Gujarat.
+- 🔭 I’m currently engineering high-performance backends for **medical diagnostics** and **real-time 3D printer monitoring**.
+- 🧠 I love building **RAG pipelines** (LangChain, QDrant, LanceDB) and optimizing complex database queries.
+- ☁️ I am an **AWS Certified Cloud Practitioner** with hands-on experience in IaC (SAM/CloudFormation), serverless (Lambda), and containers (Docker/ECS).
+- 🏆 Honored to be a **Global Nominee** in the NASA Space Apps Challenge and a recipient of a **1 lakh Rs. Innovation Grant** for an IoT Rover project.
+- 💡 My goal is to build robust, high-impact tools that are both intelligent and incredibly fast.
 
 ---
 
