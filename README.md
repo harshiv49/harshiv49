@@ -1,16 +1,5 @@
 # Hi, I'm Harshiv Thakkar 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshiv_Thakkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshiv-thakkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-harshiv49-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshiv49)
-[![LeetCode](https://img.shields.io/badge/LeetCode-harshiv49-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([YOUR_LEETCODE_LINK_HERE])
-[![Email](https://img.shields.io/badge/Email-harshiv49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshiv49@gmail.com)
-
-> A full-stack developer who builds high-performance, real-time systems.
-> I specialize in **Django REST**, **Next.js**, and **AI-driven tools**, with a proven record of achieving 
-> **sub-300ms API latency** and **40% search accuracy improvements** in production.
-
----
-
 ## 🚀 About Me
 
 I'm a software engineer passionate about building clean, scalable architecture and solving real-world problems.
@@ -23,14 +12,17 @@ I'm a software engineer passionate about building clean, scalable architecture a
 
 ---
 
-## 📈 Career & Performance Highlights
+## 📌 Featured Projects
 
-I've had the privilege of building and optimizing production-grade systems. Here are a few achievements I'm proud of:
+Here are a few projects that showcase my skills in action.
 
-* 🚀 Optimized **25+ critical Django REST APIs** to achieve consistent **sub-300ms latency**.
-* 🔍 Reduced search miss-ratio by **40%** across a 5-million-record medical dataset by implementing **PostgreSQL trigram similarity**.
-* 📈 Validated backend performance for **100+ concurrent users** with JMeter, ensuring system reliability.
-* 🏗️ Managed the full end-to-end deployment of an e-commerce platform on **AWS ECS** with a Celery/Redis task queue.
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **Mahalaxmi Matching (E-com)** | A full production-grade e-commerce stack with a 30-second checkout, Razorpay, webhooks, and one-click Shiprocket integration. Deployed on **AWS ECS** with a Celery/Redis task queue. | **Next.js (SSR/ISG)**, **Django REST**, **PostgreSQL**, **AWS ECS**, **Celery**, **Redis** |
+| **API Copilot (VS Code)** | An intelligent developer tool using a LangChain pipeline and a local **LanceDB** vector store to provide context-aware code generation and refactoring from API docs. | **TypeScript**, **LangChain**, **LanceDB**, **VS Code API** |
+| **AstroSweepers (NASA)** | A 3D-interactable website for the **NASA Space Apps Challenge**. Was honored as a **Global Nominee** for the challenge. | **React**, **TailwindCSS**, **Three.js** |
+| **News AI (Voosh Chatbot)** | A LangChain-powered news chatbot with RAG for source retrieval, summarization, and a clean conversational UI. | **TypeScript**, **Next.js**, **Node.js**, **LangChain** |
+| **VoiceAI Assistant (HITL)** | A real-time, "Human-in-the-Loop" streaming voice assistant. Features a decoupled architecture with an agent (LiveKit) and a FastAPI backend (DynamoDB, QDrant). | **Python**, **FastAPI**, **LiveKit**, **DynamoDB**, **QDrant**, **WebSockets** |
 
 ---
 
@@ -63,23 +55,3 @@ I've had the privilege of building and optimizing production-grade systems. Here
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-Here are a few projects that showcase my skills in action.
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **Mahalaxmi Matching (E-com)** | A full production-grade e-commerce stack with a 30-second checkout, Razorpay, webhooks, and one-click Shiprocket integration. Deployed on **AWS ECS** with a Celery/Redis task queue. | **Next.js (SSR/ISG)**, **Django REST**, **PostgreSQL**, **AWS ECS**, **Celery**, **Redis** |
-| **API Copilot (VS Code)** | An intelligent developer tool using a LangChain pipeline and a local **LanceDB** vector store to provide context-aware code generation and refactoring from API docs. | **TypeScript**, **LangChain**, **LanceDB**, **VS Code API** |
-| **AstroSweepers (NASA)** | A 3D-interactable website for the **NASA Space Apps Challenge**. Was honored as a **Global Nominee** for the challenge. | **React**, **TailwindCSS**, **Three.js** |
-| **News AI (Voosh Chatbot)** | A LangChain-powered news chatbot with RAG for source retrieval, summarization, and a clean conversational UI. | **TypeScript**, **Next.js**, **Node.js**, **LangChain** |
-| **VoiceAI Assistant (HITL)** | A real-time, "Human-in-the-Loop" streaming voice assistant. Features a decoupled architecture with an agent (LiveKit) and a FastAPI backend (DynamoDB, QDrant). | **Python**, **FastAPI**, **LiveKit**, **DynamoDB**, **QDrant**, **WebSockets** |
-
----
-
-## 📊 My GitHub Stats
-
-![Harshiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshiv49&show_icons=true&theme=radical&icon_color=00BFFF&rank_icon=github "Harshiv's GitHub Stats")
-![Harshiv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshiv49&layout=compact&theme=radical&langs_count=8 "Harshiv's Top Languages")
